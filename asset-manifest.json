@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Callitacodeitsmine/my-project/static/css/main.df5c7e10.css",
+    "main.css": "/Callitacodeitsmine/my-project/static/css/main.497904cf.css",
     "main.js": "/Callitacodeitsmine/my-project/static/js/main.eb36dec1.js",
     "static/js/787.633816a4.chunk.js": "/Callitacodeitsmine/my-project/static/js/787.633816a4.chunk.js",
     "index.html": "/Callitacodeitsmine/my-project/index.html",
-    "main.df5c7e10.css.map": "/Callitacodeitsmine/my-project/static/css/main.df5c7e10.css.map",
+    "main.497904cf.css.map": "/Callitacodeitsmine/my-project/static/css/main.497904cf.css.map",
     "main.eb36dec1.js.map": "/Callitacodeitsmine/my-project/static/js/main.eb36dec1.js.map",
     "787.633816a4.chunk.js.map": "/Callitacodeitsmine/my-project/static/js/787.633816a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df5c7e10.css",
+    "static/css/main.497904cf.css",
     "static/js/main.eb36dec1.js"
   ]
 }
